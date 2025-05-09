@@ -18,3 +18,11 @@ The `WhatsAppSender` script takes a script text, processes it into lines, and se
 2. Open the developer console in your browser (F12 or Ctrl+Shift+I).
 
 3. Copy and paste the contents of the `whatsapp-sender.js` file into the console.
+
+---
+
+<p align="center">
+  <a href="https://wppsender.netlify.app/">
+    <img src="https://img.shields.io/badge/TRY_WPPSENDER_NOW-4df176?style=for-the-badge&logoColor=white" alt="Try WppSender Now" />
+  </a>
+</p>
